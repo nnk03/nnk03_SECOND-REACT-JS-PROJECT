@@ -4,7 +4,11 @@
 the uploaded file is a zip folder 
 
 so u might have to extract it twice
+
+
 after extracting 
+
+
 run the following commands
 
 npm install
