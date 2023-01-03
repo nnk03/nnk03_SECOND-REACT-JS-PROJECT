@@ -11,3 +11,9 @@ npm install
 npm run dev
 
 and you can see the website in live server
+
+in src/images we can add the images
+
+in data.js we can append places visited as an object in the same format
+
+this is a project made with react props
